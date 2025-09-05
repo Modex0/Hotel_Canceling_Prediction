@@ -129,7 +129,7 @@ measures.
 
 ## 🙏 Acknowledgments
 
-I want to extend my sincere gratitude to the **Genius Technology Center ([GTC](https://www.linkedin.com/company/genius-technology-center/))**
+I want to extend my sincere gratitude to the [**Genius Technology Center (GTC)**](https://www.linkedin.com/company/genius-technology-center/)
  for the internship opportunity. The skills and knowledge I
 gained in data analysis, feature engineering, and machine learning
 during my time there were instrumental in the successful completion of
