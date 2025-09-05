@@ -129,11 +129,8 @@ measures.
 
 ## 🙏 Acknowledgments
 
-I want to extend my sincere gratitude to the [**Genius Technology Center (GTC)**](https://www.linkedin.com/company/genius-technology-center/)
- for the internship opportunity. The skills and knowledge I
-gained in data analysis, feature engineering, and machine learning
-during my time there were instrumental in the successful completion of
-this project.
+
+I want to express my gratitude to [**Genius Technology Center (GTC)**](https://www.linkedin.com/company/genius-technology-center/) for giving me the opportunity to work as an intern. This project represents my first capstone during the internship. The guidance and support I have received so far have been key to building my skills in data analysis, feature engineering, and machine learning.
 
 ------------------------------------------------------------------------
 
