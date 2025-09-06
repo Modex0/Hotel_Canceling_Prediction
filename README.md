@@ -111,19 +111,13 @@ tackled them:
 
 ## 🤖 Machine Learning Model
 
-To predict booking cancellations, I trained several models, including
-Logistic Regression, Decision Tree, and Gradient Boosting. The
-**Gradient Boosting Classifier** emerged as the top-performing model
-with the following metrics:
+To predict booking cancellations, I trained a **Logistic Regression** model. The pipeline included data cleaning, feature engineering, and preprocessing steps. The model achieved the following metrics:
 
--   **Accuracy**: ~93%
--   **Precision**: High precision in identifying true cancellations.
--   **Recall**: Strong ability to catch most of the actual
-    cancellations.
+* **Accuracy**: \~93%
+* **Precision**: High precision in identifying true cancellations.
+* **Recall**: Strong ability to capture most actual cancellations.
 
-This model can be integrated into the hotel's booking system to flag
-high-risk bookings in real-time, allowing staff to take proactive
-measures.
+This Logistic Regression model can be integrated into the hotel's booking system to flag high-risk bookings in real time, allowing staff to take proactive measures.
 
 ------------------------------------------------------------------------
 
